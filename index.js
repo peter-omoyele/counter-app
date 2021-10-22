@@ -1,5 +1,3 @@
-
-
 //initialize the count as 0
 // Listen for clicks on the increment button
 // Increment the count variable when the button is clicked
@@ -21,6 +19,7 @@ function save() {
     count = 0;
 
 };
+
 
 
 
